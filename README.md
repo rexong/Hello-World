@@ -5,3 +5,5 @@ Just learning git and github
 Hello World
 
 Hello, I am from local repository.
+
+Hello, I am from new-branch.
